@@ -1,2 +1,2 @@
 # hello-world
-My first git hum project!
+My first git hub project!
